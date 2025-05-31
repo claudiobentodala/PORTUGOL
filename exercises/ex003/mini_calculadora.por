@@ -6,18 +6,18 @@ programa
 		
 		real resultado = 0.0, operando1, operando2
 
-		escreva("Digite o primeiro n�mero: ")
+		escreva("Digite o primeiro nmero: ")
 		leia(operando1)
 
-		escreva("Digite o segundo n�mero: ")
+		escreva("Digite o segundo nmero: ")
 		leia(operando2)
 
 		escreva("\n")
 		
-		escreva("Agora digite uma das opera��es ( + - * / ): ")
+		escreva("Agora digite uma das operaes ( + - * / ): ")
 		leia(operador)
 
-		/* Verifica qual foi a opera��o selecionada */
+		/* Verifica qual foi a operao selecionada */
 		
 		se (operador == '+')
 		{

@@ -4,7 +4,7 @@ programa
 	{
 		inteiro numero, resultado, contador
 		
-		escreva("Informe um n�mero para ver sua tabuada: ")
+		escreva("Informe um numero para ver sua tabuada: ")
 		leia(numero)
 
 		limpa()

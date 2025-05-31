@@ -1,6 +1,6 @@
 programa
 {
-	inclua biblioteca Matematica --> mat  // Inclui a biblioteca Matem�tica
+	inclua biblioteca Matematica --> mat  // Inclui a biblioteca Matematica
 	
 	funcao inicio() 
 	{
@@ -14,7 +14,7 @@ programa
 
 		// Exibe os resultados
 		
-		escreva("\nO n�mero ao cubo �: ", potencia, "\n")
-		escreva("A raiz quadrada do n�mero �: ", raiz_quadrada, "\n")
+		escreva("\nO numero ao cubo u: ", potencia, "\n")
+		escreva("A raiz quadrada do numero u: ", raiz_quadrada, "\n")
 	}
 }

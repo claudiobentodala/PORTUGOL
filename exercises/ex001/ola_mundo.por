@@ -1,5 +1,5 @@
 programa { 
 	funcao inicio () {
-		escreva("Ol� Mundo!\n")
+		escreva("Ola Mundo!\n")
 	} 
 }

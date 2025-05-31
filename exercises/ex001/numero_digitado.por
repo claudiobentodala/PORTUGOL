@@ -4,9 +4,9 @@ programa
 	{ 
 		inteiro numero
 		
-		escreva("Digite um n�mero inteiro: ")
+		escreva("Digite um numero inteiro: ")
 		leia(numero)
 		
-		escreva("O n�mero digitado foi: ", numero, "\n")
+		escreva("O numero digitado foi: ", numero, "\n")
 	} 
 }

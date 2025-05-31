@@ -4,29 +4,29 @@ programa
 	{
 		real resultado
 
-		// Neste exemplo, a opera��o de multiplica��o (*) ser� executada primeiro
+		// Neste exemplo, a operao de multiplicao (*) ser executada primeiro
 		resultado = 5.0 + 4.0 * 2.0
-		escreva("Opera��o: 5 + 4 * 2 = ", resultado) 
+		escreva("Operao: 5 + 4 * 2 = ", resultado) 
 
 
-		// Neste exemplo, a opera��o de soma (+) ser� executada primeiro
+		// Neste exemplo, a operao de soma (+) ser executada primeiro
 		resultado = (5.0 + 4.0) * 2.0
-		escreva("\nOpera��o: (5 + 4) * 2 = ", resultado)		
+		escreva("\nOperao: (5 + 4) * 2 = ", resultado)		
 
 		/*
-		 * Neste exemplo, a opera��o de divis�o (/) ser� executada primeiro, 
-		 * seguida pela opera��o de multiplica��o (*). Por �ltimo, ser� 
-		 * executada a opera��o de soma (+)
+		 * Neste exemplo, a operao de diviso (/) ser executada primeiro, 
+		 * seguida pela operao de multiplicao (*). Por ltimo, ser 
+		 * executada a operao de soma (+)
 		 */
 		resultado = 1.0 + 2.0 / 3.0 * 4.0 
-		escreva("\nOpera��o: 1 + 2 / 3 * 4 = ", resultado)
+		escreva("\nOperao: 1 + 2 / 3 * 4 = ", resultado)
 
 		/*
-		 * Neste exemplo, a opera��o de soma (+) ser� executada primeiro, 
-		 * seguida pela opera��o de multiplica��o (*). Por �ltimo, ser� 
-		 * executada a opera��o de divis�o (/).
+		 * Neste exemplo, a operao de soma (+) ser executada primeiro, 
+		 * seguida pela operao de multiplicao (*). Por ltimo, ser 
+		 * executada a operao de diviso (/).
 		 */
 		resultado = (1.0 + 2.0) / (3.0 * 4.0)
-		escreva("\nOpera��o: (1 + 2) / (3 * 4) = ", resultado, "\n")
+		escreva("\nOperao: (1 + 2) / (3 * 4) = ", resultado, "\n")
 	}
 }
